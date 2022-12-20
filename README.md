@@ -8,6 +8,7 @@
 
 # This is a work in progress. by [pwnd2e@Twitter](https://twitter.com/pwnd2e) for this modified version of [palera1n](https://github.com/palera1n/palera1n)
 Read this throughly, feel free to ask questions, know the risks. 
+Reuploaded in github by iTalogc iOS - for fix the "2 seconds of delay bug" in final proccess of the palera1n jailbreak, and this crashes the devices in restore mode bootloop all everytime.
 
 - 1. [open](https://discord.gg/5pWry9wn6p) Ask in r/jailbreak Discord #palera1n channel
 - 2. [open](https://discord.gg/4S3yUMxuQH) Ask in palera1n Discord
@@ -25,7 +26,7 @@ Please, please, please, provide necessary info:
 
 # palera1n
 
-iOS 15.0-15.7.1 **work in progress, tethered** checkm8 "jailbreak" 
+iOS 15.0-15.7.2 **work in progress, tethered** checkm8 "jailbreak" 
 
 # What does this do?
 
@@ -45,7 +46,7 @@ Stop making issues about Linux not being able to connect, we are aware. This inc
     - You must install the Tips app from the App Store before running the script
 - 2. Linux or macOS computer
     - Python 3 is required
-- 3. iOS 15.0-15.7.1
+- 3. iOS 15.0-15.7.2
 - 4. A brain
     - Remember, this is mainly for developers.
 
