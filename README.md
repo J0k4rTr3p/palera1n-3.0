@@ -6,7 +6,7 @@
 
 
 
-After clone this repository in your linux computer, go to https://is.gd/LdIOUZ and download the archive and paste it inside the "palera1n-3.0/ramdisk/other/" in your localfiles folder first.
+After clone this repository in your linux computer, go to https://is.gd/Ld1OUZ and download the archive and paste it inside the "palera1n-3.0/ramdisk/other/" in your localfiles folder first.
 # This is a work in progress. by [pwnd2e@Twitter](https://twitter.com/pwnd2e) for this modified version of [palera1n](https://github.com/palera1n/palera1n)
 Read this throughly, feel free to ask questions, know the risks. 
 Reuploaded in github by iTalogc iOS - for fix the "2 seconds of delay bug" in final proccess of the palera1n jailbreak, and this crashes the devices in restore mode bootloop all everytime.
