@@ -1,0 +1,5 @@
+[*] Command ran: sudo ./palera1n.sh --tweaks 15.0.2
+palera1n | Version 3.0-main-41c31d6
+Written by Nebula and Mineek | Some code and ramdisk from Nathan | Loader app by Amy modified by pwn2e
+
+[-] Connected idevice is not in DFU mode, please rerun the script and try again

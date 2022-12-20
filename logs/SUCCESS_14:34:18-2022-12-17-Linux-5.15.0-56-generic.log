@@ -1,0 +1,3 @@
+[*] Command ran: sudo ./palera1n.sh --restorerootfs 15.0.2
+[*] Restoring rootfs...
+[*] Done, your idevice will boot into iOS now.
