@@ -69,7 +69,17 @@ Stop making issues about Linux not being able to connect, we are aware. This inc
     - Quando o terminal solicitar digite:  `Yes, pwn my idevice`  
     - Em seguida, quando o terminal solicitar digite: `Yes, do as I say`
 
+- 4. CASO ACONTEÇA DO JAILBREAK E O APARELHO CRASHAREM EM BOOTLOOP ETERNO COM A FRASE "waiting for connection no connection for 2222->22, fd = 5" NO TERMINAL, ABRA A SEGUNDA JANELA ABERTA DO TERMINAL E DIGITE CADA UM DOS COMANDOS ABAIXO PARA DESCRASHAR O APARELHO DO BOOTLOOP ETERNO. MAS JAMAIS FECHE A OUTRA JANELA DO TERMINAL, POIS O PROCESSO DE JAILBREAK VAI CONTINUAR EM DIANTE NAS DUAS JANELAS JUNTAS AO MESMO TEMPO:
 
+sudo systemctl stop usbmuxd
+
+sudo usbmuxd -f -p
+
+- 5. Caso o processo de jailbreak algum dia crashe seu aparelho, bote seu aparelho em modo DFU você poderá deletar o jailbreak pelos comandos abaixo no terminal:
+
+cd palera1n-3.0
+
+sudo ./palera1n.sh --restorerootfs 15.x.x
 
 
 
