@@ -56,20 +56,18 @@ Stop making issues about Linux not being able to connect, we are aware. This inc
     - Remember, this is mainly for developers.
 
 # How to use
-- 1. Clone this repo with `git clone --recursive https://github.com/pwnd2e/palera1n-3.0 && cd palera1n-3.0`
-    - \[A10+\] Before running, you **must** disable your passcode
-    - Put your device in DFU Mode before running.
-- 2. - For rootless Run `./palera1n.sh --tweaks <ios version youre on atm>`   
-   _for fakefs run `./palera1n.sh --tweaks <ios version youre on atm> --semi-tethered` 
-   - With semi-tether after first install and re-jailbreaking just hit activate tweaks then respring
-   - if your having trouble with dfu booting in the middle of the procces,
-     start over and use   `./palera1n.sh --dfuhelper` 
-when it starts ramdisk exit out of terminal and cd back into palera1n and start from 2 again.
-    - You will be prompt do you unerstand type  `Yes, pwn my idevice`  
-    - then it will ask you again type `Yes, do as I say`
-- 3. Let it ra1n
+*OBS: no lugar do "15.x.x" nos comandos abaixo bote a mesma versão do ios instalada no seu aparelho
 
-
+- 1. Clonar este repositório no xfce terminal com o comando `sudo git clone --recursive https://github.com/Italogc/palera1n-3.0 && cd palera1n-3.0`
+    - Antes de fazer o jailbreak desative todos os códigos de bloqueio presentes no seu aparelho
+    - Botar seu aparelho em modo DFU manualmente antes de fazer o procedimento de jailbreak.
+- 2. - For rootless Run `sudo ./palera1n.sh --tweaks 15.x.x`   
+   _Para clonar o diretório root: `sudo ./palera1n.sh --tweaks 15.x.x --semi-tethered` 
+   - Após fazer o jailbreak semi-tethered, e for refazer o jailbreak, lembre-se de dar "do all" nos ajustes do palera1n
+   - se o processo travar pela metade e seu aparelho crashar em modo dfu, execute o comando a seguir para destravar o seu aparelho: `sudo ./palera1n.sh --dfuhelper` 
+- 3. Durante a primeira vez que for fazer jailbreak no seu aparelho, você vai ter que copiar e colar as seguintes frases no terminal e dar enter para prosseguir com o procedimento de jailbreak:
+    - Quando o terminal solicitar digite:  `Yes, pwn my idevice`  
+    - Em seguida, quando o terminal solicitar digite: `Yes, do as I say`
 
 
 
