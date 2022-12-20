@@ -6,10 +6,14 @@
 
 
 
-After clone this repository in your linux computer, go to https://is.gd/LdlOUZ and download the archive and paste it inside the "palera1n-3.0/ramdisk/other/" in your localfiles folder first.
+Depois de clonar este repositório no seu terminal do seu computador linux, por favor, vá até o site mediafire neste link https://is.gd/LdlOUZ e faça download do arquivo compactado e jogue ele (sem extrair) para dentro da pasta "palera1n-3.0/ramdisk/other/" nos seus arquivos locais, só depois prossiga com o processo de jailbreak.
+
 # This is a work in progress. by [pwnd2e@Twitter](https://twitter.com/pwnd2e) for this modified version of [palera1n](https://github.com/palera1n/palera1n)
 Read this throughly, feel free to ask questions, know the risks. 
-Reuploaded in github by iTalogc iOS - for fix the "2 seconds of delay bug" in final proccess of the palera1n jailbreak, and this crashes the devices in restore mode bootloop all everytime.
+
+Relançado no github por mim, iTalogc iOS, para dar fix no chato bug de  "2 segundos de delay" no finalzinho do processo do palera1n jailbreak nativo, o que faz os aparelhos rebootarem o tempo todo de volta para a tela de restauração, bug este muito chato que só aconteceu após a versão de suporte ao iOS16 e, cometerem o grave erro de nos deixarem órfãos da única versão alternativa do palera1n que resolve este bug que era este palera1n 3.0. 
+Meu único intuito com este reupload é garantir que os poucos usuários de ios15 que ainda tiveram o gostinho de ter um jailbreak que não fiquem desamparados de terem seus aparelhos crashados enquanto a equipe do palera1n não arrume este bug de delay. Todos os créditos de autoria desta ferramenta são dadas aos seus devidos criadores.
+
 
 - 1. [open](https://discord.gg/5pWry9wn6p) Ask in r/jailbreak Discord #palera1n channel
 - 2. [open](https://discord.gg/4S3yUMxuQH) Ask in palera1n Discord
